@@ -17,9 +17,26 @@
 
 ## 📸 Demo
 
-![MiniMind Chatbot Screenshot](link_to_your_screenshot.png) <!-- Replace with your actual image link -->
 
----
+
+---<img width="1666" height="923" alt="Screenshot 2025-07-23 123355" src="https://github.com/user-attachments/assets/535e7be6-edf8-482d-ba01-71d59af68e0d" />
+
+
+
+
+
+
+
+
+
+
+
+<img width="1699" height="924" alt="Screenshot 2025-07-23 123415" src="https://github.com/user-attachments/assets/8600bb28-8542-4033-879c-dc31b75caa27" />
+
+
+
+
+
 
 ##  Technologies Used
 
